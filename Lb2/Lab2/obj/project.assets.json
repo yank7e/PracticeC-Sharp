@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oleks\\Documents\\PracticeC-Sharp\\Lb1\\Lab1\\Lab1.csproj",
-      "projectName": "Lab1",
-      "projectPath": "C:\\Users\\oleks\\Documents\\PracticeC-Sharp\\Lb1\\Lab1\\Lab1.csproj",
+      "projectUniqueName": "C:\\Users\\oleks\\Documents\\PracticeC-Sharp\\Lb2\\Lab2\\Lab2.csproj",
+      "projectName": "Lab2",
+      "projectPath": "C:\\Users\\oleks\\Documents\\PracticeC-Sharp\\Lb2\\Lab2\\Lab2.csproj",
       "packagesPath": "C:\\Users\\oleks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oleks\\Documents\\PracticeC-Sharp\\Lb1\\Lab1\\obj\\",
+      "outputPath": "C:\\Users\\oleks\\Documents\\PracticeC-Sharp\\Lb2\\Lab2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oleks\\AppData\\Roaming\\NuGet\\NuGet.Config"
